@@ -1,3 +1,5 @@
+This is a fork of the original repo for supporting our AWS image that includes these Jupuyter Notebooks.
+
 Qutip notebooks
 ===============
 
